@@ -1,0 +1,68 @@
+form{
+    width: 700px;
+    margin: 200px auto;
+    position: relative;
+    font-family: sans-serif;
+}
+
+section{
+    width: 370px;
+    margin-left: 20px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+fieldset{
+    background-image: url(fon\ card.jpeg);
+    background-size: cover;
+    border-radius: 25px;
+}
+
+h2{
+    background-color: rgba(242, 218, 5, 0.961);
+    width: 500px;
+    padding: 8px 8px 8px 60px;
+    position: absolute;
+    top: 5px;
+    left:-30px;
+    color: white;
+    border-radius: 5px;
+}
+
+input{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    background-color: rgba(251, 251, 3, 0.92);
+    height: 40px;
+    border-color: rgb(92, 101, 2);
+}
+#text-center{
+    width: 300px;
+    text-align: center;
+    border-radius: 5px;
+}
+#text-center1{
+    width: 200px;
+    text-align: center;
+    border-radius: 5px;
+}
+#text-center2{
+    width: 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 2px;
+}
+#CVV{
+    margin-left: 125px;
+    margin-top: -84px;
+    color: brown;
+    
+}
+#pass{
+    margin-left: 123px;
+    border-radius: 5px;
+}
+h4{
+    color: brown;
+}
